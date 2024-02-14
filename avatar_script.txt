@@ -7,8 +7,8 @@ tasks with our AI agents. Imagine an around the clock team member boosting custo
 without the extra cost. EasyBee does just that handling inquiries, guiding users, and streamlining operations 
 so your actual team can focus on more complex tasks.
 
-You could be a hotel owner in Rome offering personalized tips in 10 languages at virtual check-in or a sales leader using 
-hundreds of hours of recorded calls to power an AI agent at trade shows. EasyBee AI makes these scenarios 
+Today, a hotel owner in Rome can offer personalized tips in 10's of languages at virtual check-in or a sales leader can leverage 
+the info from hundreds of hours of recorded calls to find the best potential customer at trade shows. EasyBee AI makes these scenarios 
 real boosting your operations with unmatched efficiency and customization. 
 
 So what are you waiting for? 
