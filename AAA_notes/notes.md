@@ -415,5 +415,3 @@ Cold calling issues + how to overcome:
 ---------------
 # Things I know nothing about
 - Running ads (facebook, google, etc.)
-- Lead generation
-- 
